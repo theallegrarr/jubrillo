@@ -17,7 +17,7 @@ signin.classList.add('signbutton');
 searchDiv.classList.add('search');
 searchInput.classList.add('searchTerm');
 searchInput.setAttribute('type', 'text');
-searchInput.setAttribute('placeholder', 'search..........');
+searchInput.setAttribute('placeholder', 'Search..........');
 searchButton.setAttribute('type', 'submit');
 searchIcon.classList.add('fa', 'fa-search');
 searchButton.classList.add('searchButton');
