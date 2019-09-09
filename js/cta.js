@@ -9,7 +9,7 @@ const gsButton = document.createElement('button');
 
 ctaContainer.classList.add('cta-container');
 ctaTextArea.classList.add('cta-text');
-ctaImage.setAttribute('src', './assets/cta_main.png');
+ctaImage.setAttribute('src', './assets/cta-image4.png');
 ctaHead.innerText = 'The future of online work is decentralized';
 ctaWrite.innerText = 'Join the blockchain phase of freelancing online, jubrillo is designed to guarantee a fast, secure, and affordable means of transacting for employers and freelancers.'
 buttonsArea.classList.add('cta-buttons');
